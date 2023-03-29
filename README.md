@@ -1,4 +1,14 @@
-# TS NPM Package Template
+# Openjourney CLI (`ojgen`)
+A wrapper around this -> https://www.npmjs.com/package/midjourney-client
+
+## Usage
+`$ npm i -g ojgen`
+
+`$ ojgen my prompt here`
+
+or
+
+`$ npx ojgen myprompt here`
 
 ## Scripts
 Compile TS and get things ready to publish.
