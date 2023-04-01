@@ -2,13 +2,9 @@
 A wrapper around this -> https://www.npmjs.com/package/midjourney-client
 
 ## Usage
-`$ npm i -g ojgen`
+`$ npm i -g openjourney-cli`
 
-`$ ojgen my prompt here`
-
-or
-
-`$ npx ojgen myprompt here`
+`$ ojgen my prompt`
 
 ## Scripts
 Compile TS and get things ready to publish.
